@@ -1,49 +1,39 @@
-# Credential Attack Risk Analysis Using SIEM Monitoring
+# Cybersecurity Risk Analysis Case Study
 
-## Overview
-This case study analyzes suspicious login activity identified through SIEM monitoring and evaluates the business impact and cybersecurity risks associated with unauthorized access attempts.
+## Project Overview
+This case study explores cybersecurity risks within an organisational environment, focusing on identifying threats, evaluating vulnerabilities, and understanding their potential business impact.
 
----
+## Objectives
+- Identify relevant cybersecurity threats.
+- Examine vulnerabilities and security control gaps.
+- Evaluate potential business and operational risks.
+- Prioritise risks based on their potential impact.
+- Recommend appropriate risk mitigation measures.
 
-## Business Context
-Employees access internal systems using authenticated VPN access monitored through SIEM tools.
+## Risk Assessment Framework
+- Threat identification
+- Vulnerability analysis
+- Risk evaluation
+- Impact assessment
+- Risk prioritisation
+- Mitigation recommendations
 
----
+## Key Focus Areas
+- Information security
+- Organisational risk exposure
+- Security controls
+- Operational continuity
+- Cybersecurity governance
 
-## Security Observation
-Multiple failed login attempts were detected from an unknown external IP address followed by a successful login.
+## Business Relevance
+Cybersecurity risk analysis helps organisations understand potential threats, prioritise security investments, and make informed decisions about protecting business operations and information assets.
 
----
-
-## Threat Analysis
-The activity indicates a possible brute force or credential compromise attempt.
-
----
-
-## Business Impact
-- Operational security risk
-- Potential unauthorized access
-- Compliance concerns
-- Reputation impact
-
----
-
-## Recommendations
-### Technical
-- MFA enforcement
-- Account lockout policies
-- SIEM alert tuning
-
-### Business
-- Security awareness training
-- Access governance review
-- Authentication audits
-
----
-
-## Skills Demonstrated
-- SIEM Monitoring
-- Threat Analysis
+## Tools & Concepts
+- Cybersecurity Risk Management
 - Risk Assessment
-- Cybersecurity Reporting
 - Business Impact Analysis
+- Security Controls
+- Risk Mitigation
+
+## Key Takeaway
+The case study demonstrates how cybersecurity risk assessment can connect technical security concerns with organisational priorities and business decision-making.
